@@ -311,4 +311,8 @@ img:hover {
     footer{
         font-size: 25px;
     }
+
+     .botoes{
+        margin-left: 15px;
+    }
 }
